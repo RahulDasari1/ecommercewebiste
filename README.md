@@ -1,5 +1,5 @@
 # E-Commerce Website Project
-<img src="stock price prediction.png" width=50% height=50%>
+<img src="ecommerce.png" width=50% height=50%>
 
 This repository contains the source code and documentation for the E-Commerce Website project. The project is aimed at creating a fully functional e-commerce website where users can browse products, add them to their cart, make purchases, and manage their accounts.
 
